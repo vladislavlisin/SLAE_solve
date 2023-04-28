@@ -1,0 +1,3 @@
+D:/CLionProjects/C++/Richardson_method_to_solve_ALS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/CLionProjects/C++/Richardson_method_to_solve_ALS/cmake-build-debug/CMakeFiles/Richardson_method_to_solve_ALS.dir
+D:/CLionProjects/C++/Richardson_method_to_solve_ALS/cmake-build-debug/CMakeFiles/edit_cache.dir
